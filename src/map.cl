@@ -14,5 +14,5 @@ __kernel void fill_in_values(__global float* a, __global float* b, int n)
         return;
 
     a[i] = ((float)i);
-    b[i] = ((float)(i*i));
+    b[i] = ((float)(i*9));
 }
