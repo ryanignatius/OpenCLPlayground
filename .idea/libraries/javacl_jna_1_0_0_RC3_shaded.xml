@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javacl-jna-1.0.0-RC3-shaded">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javacl-jna-1.0.0-RC3-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
